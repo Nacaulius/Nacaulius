@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey there, I'm Lars 👋
+
+I'm a 18 year old web developer. 
 
 ```
            __________                                 
